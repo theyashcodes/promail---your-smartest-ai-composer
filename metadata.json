@@ -1,0 +1,5 @@
+{
+  "name": "ProMail - Your smartest AI Composer",
+  "description": "ProMail is an AI-powered tool that takes customer segment data and product catalogs to generate tailored email newsletters with A/B subject lines and dynamic discount codes using the Gemini API.",
+  "requestFramePermissions": []
+}
